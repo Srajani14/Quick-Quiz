@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Quiz App</title></head>
+<body>
+    <h1>🎓 Welcome to the Quiz!</h1>
+    <form method="POST" action="/start">
+        Name: <input name="username" required><br>
+        Topic:
+        <select name="topic">
+            {% for topic in topics %}
+                <option value="{{ topic }}">{{ topic.capitalize() }}</option>
+            {% endfor %}
+        </select><br>
+        <button type="submit">Start Quiz</button>
+    </form>
+</body>
+</html>

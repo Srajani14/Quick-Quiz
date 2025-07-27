@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Quiz Question</title></head>
+<body>
+    <h2>{{ question }}</h2>
+    <form method="POST">
+        {% for opt in options %}
+            <label><input type="radio" name="answer" value="{{ opt }}" required> {{ opt }}</label><br>
+        {% endfor %}
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

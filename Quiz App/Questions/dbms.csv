@@ -1,0 +1,11 @@
+question,option1,option2,option3,option4,answer
+What does SQL stand for?,Structured Question Language,Structured Query Language,Simple Query Language,Sequential Query Language,Structured Query Language
+Which of the following is a primary key property?,Duplicates allowed,Null values allowed,Uniquely identifies a record,Stores large text,Uniquely identifies a record
+Which command is used to remove all records from a table in SQL?,DELETE,REMOVE,DROP,TRUNCATE,TRUNCATE
+Which normal form removes partial dependency?,1NF,2NF,3NF,BCNF,2NF
+What is a foreign key?,A key in a table that refers to the primary key in another table,A duplicate key,A key with no value,An encrypted key,A key in a table that refers to the primary key in another table
+Which keyword is used to sort the result in SQL?,ORDER,ARRANGE,SORT,ORDER BY,ORDER BY
+What is the default join in SQL?,LEFT JOIN,RIGHT JOIN,CROSS JOIN,INNER JOIN,INNER JOIN
+Which of these is not a type of database?,Relational,Hierarchical,Network,Programming,Programming
+What does ACID stand for in DBMS?,"Atomicity, Consistency, Isolation, Durability","Atomicity, Clarity, Isolation, Durability","Access, Consistency, Isolation, Duration","Access, Control, Integration, Durability","Atomicity, Consistency, Isolation, Durability"
+Which clause is used to filter groups in SQL?,WHERE,HAVING,SELECT,GROUP BY,HAVING

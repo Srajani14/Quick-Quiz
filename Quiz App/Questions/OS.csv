@@ -1,0 +1,11 @@
+question,option1,option2,option3,option4,answer
+What is the main function of an Operating System?,Manage software applications,Manage hardware and software,Translate programming languages,Create spreadsheets,Manage hardware and software
+Which of the following is NOT a type of OS?,Real-time OS,Distributed OS,Time-sharing OS,Analytical OS,Analytical OS
+What is a process in an Operating System?,A computer program in execution,A program that is compiled,A script file,A running hardware device,A computer program in execution
+What is the full form of CPU scheduling algorithm FIFO?,Final In First Out,First In Fast Out,First In First Out,Fast In Final Out,First In First Out
+Which of these is a non-preemptive scheduling algorithm?,Round Robin,SJF (non-preemptive),Multilevel Queue,Priority Scheduling,SJF (non-preemptive)
+Which one is used to avoid deadlock?,Multithreading,Paging,Banker's algorithm,Virtual memory,Banker's algorithm
+What is thrashing in OS?,Hard disk failure,Excessive swapping,Data corruption,Program crashing,Excessive swapping
+Which memory management technique uses fixed-size blocks?,Segmentation,Paging,Swapping,Contiguous allocation,Paging
+What does the 'ps' command do in Linux?,Powers off the system,Shows process status,Pauses a program,Prints a shell script,Shows process status
+What is a critical section in OS?,Part of the OS kernel,A hardware failure,Code that accesses shared resources,An unused memory block,Code that accesses shared resources
